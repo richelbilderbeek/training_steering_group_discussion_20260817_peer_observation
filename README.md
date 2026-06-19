@@ -82,20 +82,6 @@
 </details>
 
 <details>
-  <summary>What is the other most important way?</summary>
-
-  The other is
-  [writing reflections](https://richelbilderbeek.github.io/teaching/teaching_overview/)
-  `[Lowyck and Verloop, 1995]`:
-
-  > The term most frequently used in connection with the focus on
-  > professional growth is undoubtedly '**reflection**'. 
-  >
-  > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
-
-</details>
-
-<details>
   <summary>What is the procedure of a peer observation?</summary>
 
   Based on `[Siddiqui et al., 2007]`:
@@ -125,6 +111,22 @@
   10 |Follow the general principles for feedback
   11 |Respect confidentiality
   12 |Make it a learning experience
+
+</details>
+
+## Other questions
+
+<details>
+  <summary>Besides peer observations, what is the other most important way to grow as a teacher?</summary>
+
+  The other is
+  [writing reflections](https://richelbilderbeek.github.io/teaching/teaching_overview/)
+  `[Lowyck and Verloop, 1995]`:
+
+  > The term most frequently used in connection with the focus on
+  > professional growth is undoubtedly '**reflection**'. 
+  >
+  > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
 
 </details>
 
