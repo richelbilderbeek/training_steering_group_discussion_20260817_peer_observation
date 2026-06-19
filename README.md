@@ -4,9 +4,15 @@ My notes for a discussion on peer observation.
 
 ## How it began
 
-![A Slack post, posted at 2026-06-18](slack.png)
+<details>
+  <summary>What caused this talk?</summary>
 
-> A Slack post, posted at 2026-06-18
+  ![A Slack post, posted at 2026-06-18](slack.png)
+
+  > A Slack post, posted at 2026-06-18
+
+</details>
+
 
 ## Goal
 
