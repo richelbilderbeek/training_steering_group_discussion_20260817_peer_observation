@@ -54,7 +54,76 @@
 <details>
   <summary>There are many things as teachers that we can put effort into. To what extent do you think/feel/guess that peer observation is a useful exercise?</summary>
 
-  It is the two most important way to grow as a teacher.
+  Getting feedback from colleagues
+  is one of the two most important way to grow as a
+  teacher `[Lowyck and Verloop, 1995]`:
+
+  > In the literature on the learning or professional development of teachers,
+  > reference is frequently made, in addition to **peer learning**,
+  > to several other
+  > approaches or interventions that are said to be particularly 
+  > conducive to this.
+  >
+  > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
+
+  <details>
+    <summary>What is the other most important way?</summary>
+
+    > The term most frequently used in connection with the focus on
+    > professional growth is undoubtedly '**reflection**'. 
+    >
+    > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
+
+  </details>
+
+
+  <details>
+    <summary>The full quote</summary>
+
+    > ### 5.4.6 Some specific ways to promote learning
+    > 
+    > In the literature on the learning or professional development of teachers,
+    > reference is frequently made, in addition to **peer learning**,
+    > to several other
+    > approaches or interventions that are said to be particularly 
+    > conducive to this.
+    > The matters discussed in this section relate in principle
+    > to both the learning of prospective teachers and the learning of
+    > current teachers.
+    > The term most frequently used in connection with the focus on
+    > professional growth is undoubtedly '**reflection**'. 
+    > Although
+    > in a general sense
+    > become simply ‘thinking about’ one’s own functioning,
+    > the meaning attributed to this term proves to be
+    > by no means unambiguous. For example, for some, the essence of reflection is
+    > calling into question the role of the school in contemporary society,
+    > in which naturally questions are asked about one’s own role therein and the effects of
+    > one’s own actions.
+    >
+    > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
+  </details>
+
+<! --
+    54.6 Enkele specifieke manieren om het leren te bevorderen
+
+    In de literatuur over het leren of de professionele ontwikkeling van docenten
+    wordt, behalve aan collegiaal leren, veelvuldig gerefereerd aan enkele andere
+    aanpakken of interventies die daar bij uitstek bevorderlijk voor zouden zijn.
+    De zaken die in deze paragraaf aan de orde komen hebben in principe be-
+    trekking op zowel het leren van aanstaande docenten als het leren van do-
+    centen-in-functie.
+    De term die in verband met de gerichtheid op professionele groei het vaakst
+    wordt gebezigd, is ongetwijfeld ‘reflectie’.'*! Hoewel hieronder in algemene
+    zin simpelweg het ‘nadenken over’ het eigen functioneren kan worden ver-
+    staan, blijkt de betekenis die aan deze term wordt gegeven allerminst eendui-
+    dig te zijn. Zo is voor sommigen de essentie van reflectie het ter discussie
+    stellen van de rol van de school in de huidige maatschappij '*?, waarbij uiter-
+    aard vragen worden gesteld over de eigen rol daarin en de effecten van het
+    eigen handelen. Door sommigen worden diverse niveaus van reflectie onder-
+
+<!--
+
 
   > Feedback is identified as a tool of choice to support the educational
   > development of university teachers `[Bélisle and Fernandez, 2024]`
@@ -107,16 +176,14 @@
 </details>
 
 
-
-
-
 ## References
 
 <!-- markdownlint-disable MD013 --><!-- References are not split up over lines to help copy-pasting, hence will break 80 characters per line -->
 
-- `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
-- `[Siddiqui et al., 2007]` Siddiqui, Zarrin Seema, Diana Jonas-Dwyer, and Sandra E. Carr. "Twelve tips for peer observation of teaching." Medical teacher 29.4 (2007): 297-300.
 - `[Bélisle and Fernandez, 2024]` Bélisle, Marilou, Valérie Jean, and Nicolas Fernandez. "The educational development of university teachers: mapping the landscape." Frontiers in Education. Vol. 9. Frontiers Media SA, 2024.
+- `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
 - `[Kember et al., 2002]` Kember, David, Doris YP Leung, and KyP Kwan. "Does the use of student feedback questionnaires improve the overall quality of teaching?." Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
+- `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop. Onderwijskunde: een kennisbasis voor professionals. Wolters-Noordhoff, 1995.
+- `[Siddiqui et al., 2007]` Siddiqui, Zarrin Seema, Diana Jonas-Dwyer, and Sandra E. Carr. "Twelve tips for peer observation of teaching." Medical teacher 29.4 (2007): 297-300.
 
 <!-- markdownlint-enable MD013 -->
