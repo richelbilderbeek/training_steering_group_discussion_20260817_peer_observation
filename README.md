@@ -1,8 +1,15 @@
 # training_steering_group_discussion_20260817_peer_observation
 
-My notes for a discussion on peer observation.
+<details>
+  <summary>What is the goal of this discussion?</summary>
 
-## How it began
+  To discuss peer observation:
+
+  - What is it?
+  - Why is it important?
+  - Find people that are interested
+
+</details>
 
 <details>
   <summary>What caused this talk?</summary>
@@ -14,20 +21,18 @@ My notes for a discussion on peer observation.
 </details>
 
 
-## Goal
+<details>
+  <summary>Who already has experienced a formal peer observation?</summary>
 
-- To discuss peer observation
+  <!-- Goal: find out pre-existing knowledge -->
 
+  These persons will be asked less questions :-)
 
-- Q: who already has experienced a formal peer observation?
+</details>
 
-[these persons will be asked less questions :-) ]
-
-- Q: For those who have never experienced a formal peer observation.
-  have you heard of it? If yes, what did you understand that it is?
 
 <details>
-  <summary>Definition of peer observation</summary>
+  <summary>For those who have never experienced a formal peer observation: have you heard of peer observation? If yes, what did you understand that it is?</summary>
 
   Definition here
 
