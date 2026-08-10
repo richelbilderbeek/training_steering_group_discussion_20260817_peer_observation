@@ -1,5 +1,7 @@
 # training_steering_group_discussion_20260817_peer_observation
 
+[![DOI](https://zenodo.org/badge/1274136648.svg)](https://doi.org/10.5281/zenodo.21868654)
+
 <details>
   <summary>What is the goal of this discussion?</summary>
 
