@@ -66,13 +66,26 @@
   >
   > (translation of `[Lowyck and Verloop, 1995]` section 5.4.6)
 
-  Also:
+  And there are plenty of other references too:
 
   > Feedback is identified as a tool of choice to support the educational
   > development of university teachers `[Bélisle and Fernandez, 2024]`
 
-  However, it is not the feedback from students that is
-  useful:
+  And the main finding of `[Smith and Wyness, 2025]`:
+
+  > [...] pedagogical collaboration, in the form of
+  > peer review teaching and the development of communities,
+  > is valued amongst university teachers 
+
+  **On its own, workshops are not enough**:
+
+  > [O]n their own, structured approaches [e.g. workshops]
+  > may be insufficient. Whereas structured interventions [have advantages],
+  > other methods that take advantage of experiential learning in the workplace,
+  > which include guided reflection, peer coaching and mentorship, should be con-
+  > sidered. `[Steinert et al., 2016]`
+
+  **On its own, feedback from learners is not useful**:
 
   > There is, therefore, no evidence that the use of the questionnaire was
   > making any contribution to improving the overall quality of teaching
@@ -114,6 +127,13 @@
 
 </details>
 
+<details>
+  <summary>How can I do peer observation?</summary>
+
+  Send me a private message.
+
+</details>
+
 ## Other questions
 
 <details>
@@ -130,18 +150,49 @@
 
 </details>
 
+<details>
+  <summary>What are other evidence-based ways to grow as a teacher?</summary>
+
+  The best ways to improve higher education teaching are,
+  from the meta-analysis `[Steinert et al., 2016]`:
+
+
+  - ongoing pedagogical development, e.g. reflections and peer observations
+  - using student-centered, active, and feedback-rich teaching
+  - structured feedback, e.g. peer observations
+
+
+
+
+
+</details>
+
 ## References
 
 <!-- markdownlint-disable MD013 --><!-- References are not split up over lines to help copy-pasting, hence will break 80 characters per line -->
 
 - `[Bélisle and Fernandez, 2024]` Bélisle, Marilou, Valérie Jean, and Nicolas Fernandez. "The educational development of university teachers: mapping the landscape." Frontiers in Education. Vol. 9. Frontiers Media SA, 2024.
+- `[Fernandes et al., 2023]` Fernandes, Sandra, et al. "Teacher professional development in higher education: The impact of pedagogical training perceived by teachers." Education Sciences 13.3 (2023): 309. [Site](https://www.mdpi.com/2195836)
+
+
+<details>
+
+  <summary>What is the full quote that is relevant?</summary>
+
+  In '3.2.2. Suggestions for Improvement in Future Programs':
+
+  > The impact of the pedagogical training on teachers’ practices and conceptions should
+  > be supported by initiatives that strengthen the teachers’ confidence, stimulate the
+  > development of research on teaching practice, and build a community of practice that
+  > provides opportunities for individual coaching/mentoring.
+
 - `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
 - `[Kember et al., 2002]` Kember, David, Doris YP Leung, and KyP Kwan. "Does the use of student feedback questionnaires improve the overall quality of teaching?." Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
 - `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop. Onderwijskunde: een kennisbasis voor professionals. Wolters-Noordhoff, 1995.
 
 <details>
 
-  <summary>What is the full quote to the reference?</summary>
+  <summary>What is the full quote that is referenced?</summary>
 
   > ### 5.4.6 Some specific ways to promote learning
   > 
@@ -170,4 +221,44 @@
 
 - `[Siddiqui et al., 2007]` Siddiqui, Zarrin Seema, Diana Jonas-Dwyer, and Sandra E. Carr. "Twelve tips for peer observation of teaching." Medical teacher 29.4 (2007): 297-300.
 
+- `[Smith and Wyness, 2025]` Smith, Bethany, and Lynne Wyness. "What makes professional teacher development in universities effective? Lessons from an international systematised review." Professional Development in Education 51.7 (2025): 1550-1572. [DOI](https://doi.org/10.1080/19415257.2024.2386666)
+
+![Smith and Wyness, 2025, figure 1](smith_and_wyness_fig_1.jpg)
+
+> `[Smith and Wyness, 2025]`, figure 1
+
+- `[Steinert et al., 2016]` Steinert, Yvonne, et al.
+  "A systematic review of faculty development initiatives designed to enhance
+  teaching effectiveness: A 10-year update:
+  BEME Guide No. 40." Medical teacher 38.8 (2016): 769-786.
+
+<details>
+
+  <summary>What is the full quote that is referenced?</summary>
+
+  Under 'Implications for practice',
+  section 'Moving from workshops to the workplace':
+
+
+  > Moving from workshops to the workplace
+  > The current literature demonstrates a continuing over-
+  > reliance on formal, structured approaches such as work-
+  > shops, short courses and seminars. Such approaches are
+  > expected and reflect the growth of the field to incorpor-
+  > ate more systematic planning and program design.
+  > However, on their own, structured approaches may be
+  > insufficient. Whereas structured interventions appear to
+  > have the stated advantage of ease of scheduling, build-
+  > ing a community of interested educators, and increasing
+  > motivation, other methods that take advantage of experi-
+  > ential learning in the workplace, which include guided
+  > reflection, peer coaching and mentorship, should be con-
+  > sidered.
+
+  This paper used 111 studies.
+
+</details>
+
 <!-- markdownlint-enable MD013 -->
+
+
