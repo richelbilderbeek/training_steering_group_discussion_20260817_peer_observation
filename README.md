@@ -185,7 +185,7 @@
   > development of research on teaching practice, and build a community of practice that
   > provides opportunities for individual coaching/mentoring.
 
-details>
+</details>
 
 - `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
 - `[Kember et al., 2002]` Kember, David, Doris YP Leung, and KyP Kwan. "Does the use of student feedback questionnaires improve the overall quality of teaching?." Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
