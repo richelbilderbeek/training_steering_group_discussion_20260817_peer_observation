@@ -189,6 +189,20 @@
 
 - `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
 - `[Kember et al., 2002]` Kember, David, Doris YP Leung, and KyP Kwan. "Does the use of student feedback questionnaires improve the overall quality of teaching?." Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
+
+- `[Kiziltepe and Sali, 2021]` Kiziltepe, Zeynep, and Özlem Sali. "Professional development for effective teaching in higher education." International Journal of Higher Education Pedagogies 2.4 (2021): 28-37.
+
+<details>
+
+  <summary>What is the full quote that is referenced?</summary>
+
+  > Results showed that the 97% of the respondents had never
+  > had a professional development program before.
+
+  This is about a private university in Turkey.
+
+</details>
+
 - `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop. Onderwijskunde: een kennisbasis voor professionals. Wolters-Noordhoff, 1995.
 
 <details>
@@ -261,3 +275,5 @@
 </details>
 
 <!-- markdownlint-enable MD013 -->
+
+
