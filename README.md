@@ -174,7 +174,6 @@
 - `[Bélisle and Fernandez, 2024]` Bélisle, Marilou, Valérie Jean, and Nicolas Fernandez. "The educational development of university teachers: mapping the landscape." Frontiers in Education. Vol. 9. Frontiers Media SA, 2024.
 - `[Fernandes et al., 2023]` Fernandes, Sandra, et al. "Teacher professional development in higher education: The impact of pedagogical training perceived by teachers." Education Sciences 13.3 (2023): 309. [Site](https://www.mdpi.com/2195836)
 
-
 <details>
 
   <summary>What is the full quote that is relevant?</summary>
@@ -185,6 +184,8 @@
   > be supported by initiatives that strengthen the teachers’ confidence, stimulate the
   > development of research on teaching practice, and build a community of practice that
   > provides opportunities for individual coaching/mentoring.
+
+details>
 
 - `[Gosling, 2002]` Gosling, David. "Models of peer observation of teaching." Generic Centre: Learning and Teaching Support Network 8.10 (2002): 08.
 - `[Kember et al., 2002]` Kember, David, Doris YP Leung, and KyP Kwan. "Does the use of student feedback questionnaires improve the overall quality of teaching?." Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
@@ -260,5 +261,3 @@
 </details>
 
 <!-- markdownlint-enable MD013 -->
-
-
