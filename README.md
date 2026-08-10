@@ -34,20 +34,20 @@
 
 
 <details>
-  <summary>For those who have never experienced a formal peer observation: have you heard of peer observation? If yes, what did you understand that it is?</summary>
+  <summary>Have you heard of peer observation? If yes, what did you understand that it is?</summary>
 
   From `[Gosling, 2002]`:
 
   **Characteristic**                   | **Peer Review Model** 
   -------------------------------------|---------------------------------------------------------------
-  Who does it & to whom?               | Teachers observe each other
+  Who does it and to whom?             | Teachers observe each other
   Purpose                              | Analysis, discussion, wider experience of teaching methods
   Outcome                              | Non-judgemental, constructive feedback
-  Relationship of observer to observed | Equality/mutuality
+  Relationship of observer to observed | **Equality/mutuality**
   Confidentiality                      | Between observer and the observed
   Judgement                            | Non-judgemental, constructive feedback
   What is observed?                    | Teaching performance, class, learning materials
-  Who benefits?                        | Mutual between peers
+  Who benefits?                        | **Mutual between peers**
   Conditions for success               | Teaching is valued, discussed
   Risks                                | Complacency, conservatism, unfocused
 
@@ -162,10 +162,6 @@
   - ongoing pedagogical development, e.g. reflections and peer observations
   - using student-centered, active, and feedback-rich teaching
   - structured feedback, e.g. peer observations
-
-
-
-
 
 </details>
 
