@@ -114,14 +114,14 @@
 
   Tip|Title, from `[Siddiqui et al., 2007]`
   ---|---------------------------------------------------------
-  1  |Choose the observer carefully
+  1  |**Choose the observer carefully**
   2  |Set aside time for the peer observation
   3  |Clarify expectations
   4  |Familiarise yourself with the course
   5  |Select the instrument wisely
-  6  |Include students.
+  6  |Include students
   7  |Be objective
-  8  |Resist the urge to compare with your own teaching style
+  8  |**Resist the urge to compare with your own teaching style**
   9  |Do not intervene
   10 |Follow the general principles for feedback
   11 |Respect confidentiality
