@@ -19,26 +19,7 @@ number-offset: -0
 
 ## The goal of this discussion
 
-:::{.columns}
-
-:::{.column width="50%"}
 ![](this_talk.png)
-:::
-
-:::{.column width="50%"}
-To discuss peer observation:
-
--   What it is
--   Why it is important
--   When to use it
--   How to do it
--   Find people that are interested
-:::
-
-:::
-
-
-
 
 ## Who already has experienced a formal peer observation?
 
@@ -46,15 +27,11 @@ Please share using Zoom:
 
 | Yes, I have                       | No, I have not                      |
 |-----------------------------------|-------------------------------------|
-| ![Yes, I have](zoom_yes.png)      | ![No, I have not](zoom_no.png)      |
 | ![Yes, I have](zoom_yes_zoom.png) | ![No, I have not](zoom_no_zoom.png) |
 
 ## What is peer observation?
 
--   What is it according to you?
--   What terms do you associate with it?
-
-![](mindmap.png)
+![](peer_review_associations.png)
 
 ## What peer observation is 1/3
 
@@ -85,17 +62,7 @@ My favorite description, from `[Gosling, 2002]`:
 
 ## How useful is peer observation?
 
-:::{.columns}
-
-:::{.column width="50%"}
 ![](todo_list_grow_as_teacher_50.png)
-:::
-
-:::{.column width="50%"}
-Which spot does it have?
-:::
-
-:::
 
 ## The usefulness of peer observation
 
@@ -109,22 +76,7 @@ Getting feedback from colleagues is
 
 ## What are recommendations for a peer observation?
 
-:::{.columns}
-
-:::{.column width="50%"}
 ![](do_avoid.png)
-:::
-
-:::{.column width="50%"}
--   What do you think is important here?
--   What should be done?
--   What should not be done?
-
-:::
-
-:::
-
-
 
 ## Recommendations for a peer observation 1/2
 
@@ -152,7 +104,11 @@ Getting feedback from colleagues is
 
 Choose an observer carefully.
 
-I do volunteer to be in either role. You can find my portfolio at <https://richelbilderbeek.github.io/teaching>
+I do volunteer to be in either role. You can find my teaching portfolio at <https://richelbilderbeek.github.io/teaching>
+
+## Questions?
+
+Any questions?
 
 ## References 1/7
 
@@ -195,10 +151,6 @@ I do volunteer to be in either role. You can find my portfolio at <https://riche
 ## References 7/7
 
 -   `[Steinert et al., 2016]` Steinert, Yvonne, et al. "A systematic review of faculty development initiatives designed to enhance teaching effectiveness: A 10-year update: BEME Guide No. 40." Medical teacher 38.8 (2016): 769-786.
-
-## Questions?
-
-Any questions?
 
 # Appendix
 
