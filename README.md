@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1274136648.svg)](https://doi.org/10.5281/zenodo.21868654)
 
+- [YouTube video of preparation of this talk](https://youtu.be/jSk35xCdsuI)
+
 <details>
   <summary>What is the goal of this discussion?</summary>
 
